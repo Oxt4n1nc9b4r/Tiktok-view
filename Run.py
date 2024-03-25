@@ -1,6 +1,6 @@
-
+            
 """
-Coded by : KIng ♚ Tanin ♔ 
+Coded by : king ♚ Tanin ♚ ♚ 
 """
 import requests
 import random
@@ -51,3 +51,6 @@ def main():
     result_message = f"Status: {status}\nMessage: {response.get('message')}"
 
     print(Panel(result_message, title="[bold blue]Boost Result[/]"))
+
+if __name__ == "__main__":
+    main()
