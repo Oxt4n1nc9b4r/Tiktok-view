@@ -1,7 +1,7 @@
 
 """
 Coded by : KIng ♚ Tanin ♔ 
-
+"""
 import requests
 import random
 from getuseragent import UserAgent
